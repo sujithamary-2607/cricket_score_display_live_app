@@ -147,5 +147,7 @@ http://127.0.0.1:5000/
 ## 👩‍💻 Author
 
 **T. Sujitha Mary**
+
 Department of Artificial Intelligence and Data Science
+
 st joseph college of engineering
